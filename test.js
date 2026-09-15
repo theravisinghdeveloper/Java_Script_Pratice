@@ -1,1 +1,2 @@
-console.log("hii")
+let a = 5 
+clonsole.log(a)
